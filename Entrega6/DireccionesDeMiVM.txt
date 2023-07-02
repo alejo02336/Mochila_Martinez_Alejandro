@@ -1,0 +1,6 @@
+IP privada y publica maquina virtual: 
+IP privada (VM): 10.0.2.15
+Direccion MAC (VM): 08:00:27:84:b4:16
+IP publica (VM): 127.0.0.1
+Es diferente a la IP pública y privada de nuestra maquina host?
+si
